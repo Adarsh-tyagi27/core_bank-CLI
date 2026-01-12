@@ -13,3 +13,4 @@
 - 2026-01-10: Update documentation
 - 2026-01-11: Update documentation
 - 2026-01-10: Update documentation
+- 2026-01-12: Refactor code structure
