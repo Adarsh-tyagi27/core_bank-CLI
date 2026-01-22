@@ -25,3 +25,4 @@
 - 2026-01-20: Refactor code structure
 - 2026-01-21: Fix minor typo
 - 2026-01-22: Refactor code structure
+- 2026-01-23: Clean up resources
